@@ -10,9 +10,7 @@ I'm a 19-year-old Computing Science student at the University of the Fraser Vall
 
 - **AI and Machine Learning**: I'm deeply interested in AI/ML and plan to pursue a master's degree followed by a PhD in this field.
 - **Web Development**: Skilled in both front-end (HTML, CSS, JavaScript, AngularJS, ReactJS, NextJS) and back-end (MongoDB, APIs, Express) development.
-- **Research**: Currently working on a research paper with Dr. Amir Shabani on fine-grained emotion recognition in social companion robots.
-- **Entrepreneurship**: Developing an app named TiffinBox to offer affordable, home-cooked meal services.
-
+- **Research**: Currently working on a research paper with Dr. Amir Shabani and Dr.Opeyemi Adesina
 ## Technical Skills
 
 - **Programming Languages**: JavaScript, Python, Java, C++
