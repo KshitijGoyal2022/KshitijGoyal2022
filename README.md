@@ -1,38 +1,61 @@
-# Hello, I'm Kshitij Goyal 👋
+# Kshitij Goyal
 
-![Profile Banner](path/to/your/banner/image.jpg)
+**Quantitative Researcher · Machine Learning Engineer · Final-year CS student**
 
-## About Me
-
-I'm a 19-year-old Computing Science student at the University of the Fraser Valley (UFV), specializing in Artificial Intelligence and Data Mining. I'm currently in my fourth and final year, with a passion for developing innovative solutions using AI and machine learning. 
-
-## What I Do
-
-- **AI and Machine Learning**: I'm deeply interested in AI/ML and plan to pursue a master's degree followed by a PhD in this field.
-- **Web Development**: Skilled in both front-end (HTML, CSS, JavaScript, AngularJS, ReactJS, NextJS) and back-end (MongoDB, APIs, Express) development.
-- **Research**: Currently working on a research paper with Dr. Amir Shabani and Dr.Opeyemi Adesina
-## Technical Skills
-
-- **Programming Languages**: JavaScript, Python, Java, C++
-- **Web Development**: HTML, CSS, JavaScript, AngularJS, ReactJS, NextJS
-- **Backend Development**: Node.js, Express.js, MongoDB
-- **Machine Learning**: TensorFlow, Keras, Scikit-learn
-- **Tools and Platforms**: Git, Docker, AWS, Firebase
-
-## Education
-
-- **Bachelor of Science in Computing Science** (Specializing in AI and Data Mining)
-  - University of the Fraser Valley (UFV)
-  - Expected Graduation: 2025
-
-## Get in Touch
-
-- **Email**: [kshitijgoyal2022@gmail.com](mailto:kshitijgoyal2022@gmail.com)
-- **LinkedIn**: [https://www.linkedin.com/in/kshitijgoyal7/](https://www.linkedin.com/in/kshitijgoyal7/)
+*Building fine-grained emotion models for social robots, forecasting real-estate markets with ML + quantum methods, and co-founding products that reach real users.*
 
 ---
 
-**Quote I Live By:**
-"The more you learn, the more you realize the less you know. The more you learn, the more places you go." - Dr. Seuss
+## Currently
 
-![Profile Visits](https://komarev.com/ghpvc/?username=yourusername&color=blue)
+| Role | Organisation | Focus |
+|------|--------------|-------|
+| Quantitative Researcher | **Valua** | Property price forecasting, quantum-enhanced ML pipelines |
+| ML Engineer Intern | **Magic Hour (YC W24)** | Video generative AI deployed to 20 M+ viewers |
+| Co-Founder | **Tiffin Arca** | Scalable meal-delivery platform for 10 000+ users |
+| B.Sc. → M.Math | UFV (’25) → Waterloo (’27) | AI, Data Mining, Robotics |
+
+---
+
+## Toolbox
+
+<p align="left">
+  <!-- languages -->
+  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+  <!-- frameworks -->
+  <img src="https://img.shields.io/badge/PyTorch-ee4c2c?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
+  <img src="https://img.shields.io/badge/ROS2-22314E?style=for-the-badge&logo=ros&logoColor=white" alt="ROS2"/>
+  <!-- devops -->
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/>
+</p>
+
+
+## Publications
+
+- **K. Goyal**, I. Sharda, A. Shabani · **“Improving Speech Emotion Recognition: A Semi-Supervised Approach for Fine-Grained Analysis.”** CVIS 2024.
+- I. Sharda, **K. Goyal**, et al. · **“A Scalable End-to-End IoT Data Pipeline with Dynamic Bucketing and Blockchain Verification.”** IEEE VTC 2025 Fall (in press).
+- **K. Goyal**, I. Sharda, A. Shabani. **“Bridging Data Gaps for Fine-Grained Speech Emotion Recognition: A Semi-Supervised Learning Approach”** accepted at DeLTA 2025, withdrawn prior to publication; revision in preparation.
+---
+
+## Stats & Activity
+
+<p align="left">
+  <!-- GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=KshitijGoyal2022&show_icons=true&hide_border=true" alt="GitHub stats">
+
+</p>
+
+![Profile views counter](https://komarev.com/ghpvc/?username=KshitijGoyal2022&style=flat-square)
+
+---
+
+## Get in Touch
+
+- **Email:** kshitijgoyal2022@gmail.com  
+- **LinkedIn:** linkedin.com/in/kshitijgoyal7  
+- **Website / Blog:** *coming soon*
+
