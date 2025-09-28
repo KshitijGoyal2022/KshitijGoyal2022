@@ -1,22 +1,5 @@
 # Kshitij Goyal
 
-**Quantitative Researcher · Machine Learning Engineer · Final-year CS student**
-
-*Building fine-grained emotion models for social robots, forecasting real-estate markets with ML + quantum methods, and co-founding products that reach real users.*
-
----
-
-## Currently
-
-| Role | Organisation | Focus |
-|------|--------------|-------|
-| Quantitative Researcher | **Valua** | Property price forecasting, quantum-enhanced ML pipelines |
-| ML Engineer Intern | **Magic Hour (YC W24)** | Video generative AI deployed to 20 M+ viewers |
-| Co-Founder | **Tiffin Arca** | Scalable meal-delivery platform for 10 000+ users |
-| B.Sc. → M.Math | UFV (’25) → Waterloo (’27) | AI, Data Mining, Robotics |
-
----
-
 ## Toolbox
 
 <p align="left">
