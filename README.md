@@ -1,10 +1,8 @@
 # Hi, I'm Kshitij 👋
 
-`Builder • Hacker • Researcher`
-
 ## 👨‍💻 About Me
 
-Hey, thanks for stopping by. I'm a machine learning engineer, researcher, and multi-time hackathon winner who loves building things. I’ve worked at multiple early-stage startups and academic labs, and am no stranger to pulling of 24 hour coding sessions, taking ideas from zero to one.  
+I'm a machine learning engineer, researcher, and multi-time hackathon winner who loves building things. I’ve worked at multiple early-stage startups and academic labs, and am no stranger to pulling of 24 hour coding sessions, taking ideas from zero to one.  
 
 Outside of work you’ll find me in the gym, playing soccer, or hacking on a new project.
 
