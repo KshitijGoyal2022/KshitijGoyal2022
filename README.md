@@ -1,44 +1,59 @@
-# Kshitij Goyal
+# Hi, I'm Kshitij 👋
 
-## Toolbox
+`Builder • Hacker • Researcher`
 
-<p align="left">
-  <!-- languages -->
-  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
-  <!-- frameworks -->
-  <img src="https://img.shields.io/badge/PyTorch-ee4c2c?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
-  <img src="https://img.shields.io/badge/ROS2-22314E?style=for-the-badge&logo=ros&logoColor=white" alt="ROS2"/>
-  <!-- devops -->
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/>
-</p>
+## 👨‍💻 About Me
 
+Hey, thanks for stopping by. I'm a machine learning engineer, researcher, and multi-time hackathon winner who loves building things. I’ve worked at multiple early-stage startups and academic labs, and am no stranger to pulling of 24 hour coding sessions, taking ideas from zero to one.  
 
-## Publications
+Outside of work you’ll find me in the gym, playing soccer, or hacking on a new project.
 
-- **K. Goyal**, I. Sharda, A. Shabani · **“Improving Speech Emotion Recognition: A Semi-Supervised Approach for Fine-Grained Analysis.”** CVIS 2024.
-- I. Sharda, **K. Goyal**, et al. · **“A Scalable End-to-End IoT Data Pipeline with Dynamic Bucketing and Blockchain Verification.”** IEEE VTC 2025 Fall (in press).
-- **K. Goyal**, I. Sharda, A. Shabani. **“Bridging Data Gaps for Fine-Grained Speech Emotion Recognition: A Semi-Supervised Learning Approach”** accepted at DeLTA 2025, withdrawn prior to publication; revision in preparation.
----
+## 🌱 What I'm Working On
 
-## Stats & Activity
+- Machine learning systems in various aspects of finance
+- Multi-agent systems and agentic workflows
 
-<p align="left">
-  <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=KshitijGoyal2022&show_icons=true&hide_border=true" alt="GitHub stats">
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kshitijgoyal7/)
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KshitijGoyal2022)
 
-</p>
+## 🔧 Technologies I Work With
 
-![Profile views counter](https://komarev.com/ghpvc/?username=KshitijGoyal2022&style=flat-square)
+<div style='display: flex; flex-wrap: wrap; gap: 8px;'>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="32px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="32px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="32px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="32px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="32px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="32px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="32px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="32px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="32px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="32px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="32px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="32px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" width="32px" />
+</div>
 
----
+## 🛠 Areas I Focus On
 
-## Get in Touch
+- Machine Learning and Deep Learning  
+- Multi-Agent AI Systems  
+- NLP and Emotion Recognition  
+- Distributed Systems, APIs, and Automation  
+- Quantitative research and ML for finance  
+- Production engineering with cloud infrastructure  
 
-- **Email:** kshitijgoyal2022@gmail.com  
-- **LinkedIn:** linkedin.com/in/kshitijgoyal7  
-- **Website / Blog:** *coming soon*
+## 🏆 Highlights
+
+- 5× hackathon winner  
+- 2 peer-reviewed publications (CVIS 2024, IEEE VTC-Fall 2025)   
+- Multiple Research Awards
+- Worked at YC-backed startups and received multiple founding engineer offers  
+- Built products that reached more than 30M users  
+
+## 📊 GitHub Stats
+
+![](https://nirzak-streak-stats.vercel.app?user=KshitijGoyal2022&theme=dark&hide_border=false)
+<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=KshitijGoyal2022&theme=dark&hide_border=false&layout=compact)
 
